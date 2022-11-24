@@ -42,7 +42,7 @@ color: white;
 -webkit-text-stroke: 3px black;
 color: rgb(255, 255, 255);
 font-size: 45px;
-margin-top: 220px;
+/* margin-top: 220px; */
 }
 .intro-txt h2 {
     -webkit-text-stroke: 3px black;
