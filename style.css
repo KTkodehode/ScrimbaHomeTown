@@ -19,7 +19,7 @@ color: white;
     display: flex;
     margin: 0 auto;
     align-items: center;
-    background-image: url("/images/trheim.jpeg");
+    background-image: url("./images/trheim.jpeg");
     height: 560px;
     background-size: cover;
 }
