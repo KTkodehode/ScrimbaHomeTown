@@ -1,0 +1,76 @@
+body {
+    background:white;
+    background:linear-gradient(rgb(30, 50, 5),rgb(214, 214, 113));
+}
+
+.top-section {
+margin-bottom: 100px;
+}
+.intro {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    background-image: url("/images/trheim.jpeg");
+    height: 400px;
+    background-size: cover;
+}
+
+
+.intro-txt {
+    color: rgb(0, 0, 0);
+    margin: 0 auto;
+    
+
+}
+.attr{
+    display: flex;
+    flex-wrap: no-wrap;
+    margin: 20px auto;
+    justify-content: space-around;
+    text-align: center;
+    width: 100%;
+}
+.attr h3 {
+    font-size: 25px;
+    word-spacing: 1px;
+}
+.attr p {
+    font-style: italic;
+    font-size: 20px;
+}
+.attr img{
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+}
+.show p{
+    margin: 0 40px;
+}
+.guide-section {
+    text-align: center;
+    border: 1px solid rgb(196, 205, 161);
+    border-radius: 10px;
+    box-shadow: 20px 20px 50px 10px rgb(146, 173, 70) inset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    height: 600px;
+    margin: 100px auto;
+    /* background:linear-gradient(rgb(114, 114, 28),rgb(35, 81, 35)); */
+}
+.guide-section img {
+    height: 390px;
+    width: 250px;
+}
+.guide-section img {
+    border-radius: 50%;
+}
+.guide-section p{
+font-size: 17px;
+}
+#name {
+    font-size: 20px;
+    font-weight: 600;
+}
