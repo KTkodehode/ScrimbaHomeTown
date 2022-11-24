@@ -39,11 +39,13 @@ color: white;
 }
 .intro-txt h1 {
 /* margin: 0 38px 470px 460px; */
+-webkit-text-stroke: 3px black;
 color: rgb(255, 255, 255);
 font-size: 45px;
 margin-top: 220px;
 }
 .intro-txt h2 {
+    -webkit-text-stroke: 3px black;
 margin: 0 auto -20px;
 font-size: 45px;
 
